@@ -62,7 +62,8 @@ Trusted advisor to business stakeholders — bridging AI strategy and delivery w
 
 - **PhD, Engineering** — University of Liverpool
 - **PhD, Engineering** — National Tsing Hua University, Taiwan
-- **MSc Energy Generation** · **BEng Aerospace Engineering** — University of Liverpool
+- **MSc Energy Generation**
+- **BEng Aerospace Engineering** — University of Liverpool
 - Interests: LLMs, NLP, Bayesian inference, Monte Carlo simulation, algorithms.
 
 #### GitHub
