@@ -13,19 +13,19 @@ Trusted advisor to business stakeholders — bridging AI strategy and delivery w
 
 - **[Alignerr / Labelbox]** — RL Task Author & AI Training Expert. Authoring deterministic, code-graded reinforcement learning tasks for frontier LLM labs; designing multi-metric rubrics with calibrated credit curves; running Monte Carlo validation across skilled-agent and baseline distributions.
 - **[Micro1]** — AI Trainer. Prompt engineering, evaluation-framework design, and human-in-the-loop validation supporting SFT and RLHF pipelines across coding, reasoning, and business domains.
-- **[Magnus Consulting]** — Senior AI & Data Platform Engineer. Architected an end-to-end AWS AI platform that turns unstructured GTM reports into a queryable intelligence system: LLM schema mapping → structured S3/Athena analytics → Pinecone vector search → production RAG → multi-agent report generation, fronted by a Next.js chat app on Amplify + EC2.
+- Open to my next senior GenAI / AI-platform engagement — most recently architected an end-to-end AWS AI platform at **Magnus Consulting** (LLM schema mapping → S3/Athena → Pinecone → production RAG → multi-agent GTM report generation, fronted by a Next.js chat app on Amplify + EC2).
 
 #### Selected experience
 
-| Role | Company | Focus |
-|---|---|---|
-| Sr AI & Data Platform Engineer | Magnus Consulting | GenAI platform, multi-agent RAG, LLM schema mapping |
-| Lead Data Scientist (GenAI) | Unisys Logistics | Multi-agent LangChain workflows, LLM router, MCP tool server |
-| ML Design Lead | easyJet | OCR at 2M docs/yr, Bedrock/OpenAI RAG (+40% relevance), prompt-to-video (–70% production time) |
-| Senior Data Scientist | ACAS | NLP topic modelling and multi-class classification for national helpline transcripts |
-| Senior Data Scientist | Salesforce | Forecasting, Neo4j customer knowledge graph, 5TB/day BigQuery pipelines |
-| Risk & Uncertainty Consultant | AstraZeneca | UQ tooling for GCA risk assessment; COVID-19 studies |
-| ML Engineer | National Nuclear Laboratory | Published neural surrogate models for chemical-plant sensitivity analysis |
+| Role | Company | Period | Focus |
+|---|---|---|---|
+| Sr AI & Data Platform Engineer | Magnus Consulting | Aug 2025 – Feb 2026 | GenAI platform, multi-agent RAG, LLM schema mapping |
+| Lead Data Scientist (GenAI) | Unisys Logistics | Nov 2023 – Aug 2025 | Multi-agent LangChain workflows, LLM router, MCP tool server |
+| ML Design Lead | easyJet | Apr 2023 – Oct 2023 | OCR at 2M docs/yr, Bedrock/OpenAI RAG (+40% relevance), prompt-to-video (–70% production time) |
+| Senior Data Scientist | ACAS | Oct 2022 – Apr 2023 | NLP topic modelling and multi-class classification for national helpline transcripts |
+| Senior Data Scientist | Salesforce | May 2021 – Sep 2022 | Forecasting, Neo4j customer knowledge graph, 5TB/day BigQuery pipelines |
+| Risk & Uncertainty Consultant | AstraZeneca | Jul 2019 – Feb 2021 | UQ tooling for GCA risk assessment; COVID-19 studies |
+| ML Engineer | National Nuclear Laboratory | Jan 2017 – Jun 2019 | Published neural surrogate models for chemical-plant sensitivity analysis |
 
 #### Core stack
 
