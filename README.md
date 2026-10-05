@@ -24,7 +24,7 @@ Trusted advisor to business stakeholders — bridging AI strategy and delivery w
 | ML Design Lead | easyJet | Apr 2023 – Oct 2023 | OCR at 2M docs/yr, Bedrock/OpenAI RAG (+40% relevance), prompt-to-video (–70% production time) |
 | Senior Data Scientist | ACAS | Oct 2022 – Apr 2023 | NLP topic modelling and multi-class classification for national helpline transcripts |
 | Senior Data Scientist | Salesforce | May 2021 – Sep 2022 | Forecasting, Neo4j customer knowledge graph, 5TB/day BigQuery pipelines |
-| Risk & Uncertainty Consultant | AstraZeneca | Jul 2019 – Feb 2021 | UQ tooling for GCA risk assessment; COVID-19 studies |
+| Risk & Uncertainty Consultant | Renuntiabo | Jul 2019 – Feb 2021 | UQ tooling for GCA risk assessment; COVID-19 studies |
 | ML Engineer | National Nuclear Laboratory | Jan 2017 – Jun 2019 | Published neural surrogate models for chemical-plant sensitivity analysis |
 
 #### Core stack
